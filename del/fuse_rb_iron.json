@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "rad_mod:fuse_iron_raw"
+    },
+    "result": "rad_mod:fuse_iron",
+    "experience": 81,
+    "cookingtime": 1600
+}

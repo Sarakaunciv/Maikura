@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "AAA",
+        "A A",
+        "AAA"
+    ],
+    "key": {
+        "A": {
+            "item": "rad_mod:fuse_copper"
+        }
+    },
+    "result": {
+        "item": "rad_mod:fuse_copper_raw",
+        "count": 8
+    }
+}

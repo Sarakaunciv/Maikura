@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "rad_mod:fuse_copper_raw"
+    },
+    "result": "rad_mod:fuse_copper",
+    "experience": 81,
+    "cookingtime": 1600
+}

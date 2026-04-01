@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "tag": "minecraft:netherite_block"
+    }
+  },
+  "result": {
+    "item": "rad_mod:fuse_netherite",
+    "count": 1
+  }
+}
